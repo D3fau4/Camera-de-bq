@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (NB)
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: ygSP0NefcGv5SErY1AZLNH7HpZM=
+
+Name: system/app/Camerabq/Camerabq.apk
+SHA1-Digest: 3kj0rGAFYtcj2hUlJdV+bKN+qXE=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: KEzEkkVazsu2lm9PLPF0RBmZcUU=
+
+Name: system/lib/libjni_panorama.so
+SHA1-Digest: kST/MexvE6OZ/kjmW+r5OpArZFw=
+
