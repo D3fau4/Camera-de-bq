@@ -1,6 +1,5 @@
 ui_print("****************************************");
-ui_print("*    Port creado por @D3fau4   *");
-ui_print("*        para HTCMania        **********");
+ui_print("*    Port creado por D3fau4   *");
 ui_print("****************************************");
 ui_print("");
 ui_print("");
