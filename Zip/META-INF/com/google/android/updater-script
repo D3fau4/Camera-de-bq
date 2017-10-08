@@ -1,6 +1,6 @@
 ui_print("****************************************");
 ui_print("****     Port creado por D3fau4     ****");
-ui_print("******       Version 1.0.2        ******");
+ui_print("******       Version 1.2.0        ******");
 ui_print("****************************************");
 ui_print("");
 ui_print("");
